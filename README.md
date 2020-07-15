@@ -8,6 +8,10 @@ Follow the steps below to execute the scripts
   
 `[root@ITL-MOHSIN Workspace1]# chmod +x Disk.sh`
 
+`[root@ITL-MOHSIN Workspace1]# chmod +x Memory.sh`
+
 3. Execute the Script.
    
  `[root@ITL-MOHSIN Workspace1]# ./Disk.sh`
+ 
+`[root@ITL-MOHSIN Workspace1]# ./Memory.sh` 
